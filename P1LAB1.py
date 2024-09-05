@@ -2,7 +2,7 @@
 # 9/4/2024
 # P1LAB1
 # Input and Output
--
+
 # the input function automatically saves the data as a string
 firstName = input("Enter your first name: ")
 lastName = input("Enter your last name: ")
